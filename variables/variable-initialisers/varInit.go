@@ -1,5 +1,6 @@
 package main
 
+// Same as 'variable.go' but with values initialised.
 func variableInit(d int, a bool, v bool, i bool) (int, bool, bool, bool) {
 	return d, a, v, i
 }
